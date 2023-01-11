@@ -117,7 +117,7 @@
   "snapshotMemoTip": "Пожалуйста, введите памятку к снимку",
   "tagSnapshot": "Снимок с тегом",
   "tagSnapshotUpload": "Снимок с тегом и загрузка",
-  "tagSnapshotTip": "Не включайте символы \ / : * ? &quot; &#039; &lt; &gt; |",
+  "tagSnapshotTip": "Не включайте символы \\ / : * ? &quot; &#039; &lt; &gt; |",
   "dataRepo": "Хранилище данных",
   "newSubDoc": "Создать поддокумент",
   "newDocBelow": "Создать документ ниже",
